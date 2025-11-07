@@ -6,7 +6,7 @@ export default function Headeriot(props) {
   return (
     <div>
       <h1 className="text-center text-blue-600 text-2xl font-bold mt-3 mb-3">
-        สวัสดี ชมรมคนชอบฮิ
+        สวัสดี นะจ๊ะ
         <br />
         {wow} {woo}
       </h1>
